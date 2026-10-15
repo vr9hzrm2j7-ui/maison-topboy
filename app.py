@@ -325,7 +325,7 @@ HTML = """
      alt="IGNITE OUD">
                     <div class="produit-contenu">
                         <p class="categorie">Boisé · Mixte</p>
-                        <h3>Oud Prestige</h3>
+                        <h3>IGNITE OUD </h3>
                         <p class="description">
                             Une ambiance boisée, profonde et raffinée.
                         </p>
@@ -343,7 +343,7 @@ HTML = """
      alt="TOM FORD OUD">
                     <div class="produit-contenu">
                         <p class="categorie">Floral · mixte</p>
-                        <h3>Oud Prestige</h3>
+                        <h3>TOM FORD OUD</h3>
                         <p class="description">
                             Une fragrance florale, douce et délicate.
                         </p>
@@ -361,7 +361,7 @@ HTML = """
      alt="BADE’E AL OUD">
                     <div class="produit-contenu">
                         <p class="categorie">Élégant · Mixte</p>
-                        <h3>Élégance</h3>
+                        <h3>BADE'E AL OUD</h3>
                         <p class="description">
                             Une senteur sophistiquée pour toutes les occasions.
                         </p>
