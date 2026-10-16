@@ -10,6 +10,7 @@ HTML = """
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maison Topboy | Parfums de luxe</title>
     <meta name="description" content="Découvrez la collection de parfums Maison Topboy au Sénégal.">
+    <meta name="google-site-verification" content="xjOwkDKQOgRytaN2qGCJepC1nWpqbG8sAsiTGKXuWL0" />
 
     <style>
         :root {
