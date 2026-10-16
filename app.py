@@ -46,11 +46,18 @@ HTML = """
             background: #080808;
         }
 
-        .logo {
-            color: var(--or);
-            font-size: 23px;
-            font-weight: bold;
-            letter-spacing: 2px;
+        .logo-image {
+    display: inline-flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.logo-image img {
+    display: block;
+    width: 180px;
+    max-width: 100%;
+    height: auto;
+}
         }
 
         nav a {
@@ -293,7 +300,9 @@ HTML = """
 
 <body>
     <header>
-        <a class="logo" href="#" style="text-decoration:none">MAISON TOPBOY</a>
+       <a href="#" class="logo-image">
+    <img src="{{ url_for('static', filename='images/logo-maison-topboy.jpeg') }}" alt="Maison Topboy">
+</a>
         <nav>
             <a href="#">Accueil</a>
             <a href="#collection">Collection</a>
