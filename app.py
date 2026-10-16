@@ -301,7 +301,7 @@ HTML = """
 <body>
     <header>
        <a href="#" class="logo-image">
-       <img src="{{ url_for('static', filename='images/Logo_maison_topboy.jpeg') }}" alt="Maison Topboy">
+       <img src="{{ url_for('static', filename='images/logo_maison_topboy.jpeg') }}" alt="Maison Topboy">
 </a>
         <nav>
             <a href="#">Accueil</a>
