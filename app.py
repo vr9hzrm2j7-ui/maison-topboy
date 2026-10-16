@@ -52,13 +52,20 @@ HTML = """
     flex-shrink: 0;
 }
 
+.logo-image {
+    display: inline-flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+
 .logo-image img {
     display: block;
     width: 180px;
     max-width: 100%;
     height: auto;
 }
-        }
+
+nav a {
 
         nav a {
             color: white;
