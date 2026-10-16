@@ -45,27 +45,18 @@ HTML = """
             border-bottom: 1px solid #393020;
             background: #080808;
         }
-
-        .logo-image {
-    display: inline-flex;
-    align-items: center;
-    flex-shrink: 0;
-}
-
 .logo-image {
-    display: inline-flex;
-    align-items: center;
-    flex-shrink: 0;
-}
+            display: inline-flex;
+            align-items: center;
+            flex-shrink: 0;
+        }
 
-.logo-image img {
-    display: block;
-    width: 180px;
-    max-width: 100%;
-    height: auto;
-}
-
-nav a {
+        .logo-image img {
+            display: block;
+            width: 180px;
+            max-width: 100%;
+            height: auto;
+        }
 
         nav a {
             color: white;
@@ -76,6 +67,7 @@ nav a {
 
         nav a:hover {
             color: var(--or);
+        }
         }
 
         .hero {
@@ -173,14 +165,14 @@ nav a {
             border-color: var(--or);
         }
 
-        .photo {
-    width: 100%;
-    height: 230px;
-    display: block;
-    object-fit: contain;
-    padding: 10px;
-    background: linear-gradient(145deg, #302719, #121212);
-}
+       .photo {
+            width: 100%;
+            height: 230px;
+            display: block;
+            object-fit: contain;
+            padding: 20px;
+            background: linear-gradient(145deg, #302719, #121212);
+        }
 
         .produit-contenu {
             padding: 22px;
