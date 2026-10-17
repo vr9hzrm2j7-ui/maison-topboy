@@ -9,7 +9,7 @@ HTML = """
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maison Topboy | Boutique de parfums au Sénégal</title>
-    <meta name="description" content="Découvrez la collection de parfums Maison Topboy au Sénégal.">
+   <meta name="description" content="Découvrez Maison Topboy, votre boutique de parfums au Sénégal. Explorez notre sélection de fragrances élégantes et commandez facilement sur WhatsApp.">
     <meta name="google-site-verification" content="xjOwkDKQOgRytaN2qGCJepC1nWpqbG8sAsiTGKXuWL0" />
 
     <style>
